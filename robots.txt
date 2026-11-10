@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
-Disallow: /propuestas/
+Disallow: /propuestas/astor-plaza
+Disallow: /propuestas/mago-de-oz
+Disallow: /propuestas/pa.html
+Disallow: /propuestas/ruta-atlab
 Disallow: /dashboard/
-Disallow: /atlab/
-Disallow: /altavista/
 Disallow: /euforia/
