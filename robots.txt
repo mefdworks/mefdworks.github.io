@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /propuestas/
+Disallow: /dashboard/
 Disallow: /atlab/
 Disallow: /altavista/
 Disallow: /euforia/
