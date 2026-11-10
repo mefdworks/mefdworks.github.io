@@ -1,3 +1,3 @@
 # maicolespinosa.com
 
-Web personal. Los demas repos de la cuenta cuelgan de este dominio como /<repo>/.
+Web personal. Los demás repos de la cuenta cuelgan de este dominio como `/<nombre-del-repo>/`.
